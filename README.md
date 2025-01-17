@@ -2,7 +2,7 @@
 ## Welcome to my profile 👊
 
 
-##### 🖥️ I'm currently work as DevSecOps intern at Stefanini Cyber 👨‍💻
+##### 🖥️ I'm currently working as DevSecOps intern at Stefanini Cyber 👨‍💻
 ##### 🖥️ Looking to be a DevOps Engineer in the future ☁️
 
 | **My Study Goals Today**              |
