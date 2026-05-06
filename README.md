@@ -2,16 +2,7 @@
 ## Welcome to my profile 👊
 
 
-##### 🖥️ I'm currently working as DevSecOps intern at Stefanini Cyber 👨‍💻
-##### 🖥️ Looking to be a DevOps Engineer in the future ☁️
-
-| **My Study Goals Today**              |
-|---------------------------------------|
-| 📙 **Cloud Computing**                |
-| 📙 **Coding and Automation**          | 
-| 📙 **Infrastructure Management**      | 
-| 📙 **Containerization**               | 
-| 📙 **Infrastructure as code**         | 
+##### 🖥️ I'm currently looking for new oportunities in cyber security and DevSecOps area 👨‍💻
 
 <!--
 **Felipe-Antonio19/Felipe-Antonio19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
