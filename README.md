@@ -2,7 +2,7 @@
 ## Welcome to my profile 👊
 
 
-##### 🖥️ I'm currently looking for new oportunities in cyber security and DevSecOps area 👨‍💻
+##### 🖥️ I'm currently looking for new oportunities in Application Security and DevSecOps area 👨‍💻
 
 <!--
 **Felipe-Antonio19/Felipe-Antonio19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
